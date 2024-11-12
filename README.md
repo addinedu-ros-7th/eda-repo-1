@@ -4,18 +4,24 @@ EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산�
 # eda-repo-1
 EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산업 영향 분석 
 
-## 프로젝트 소개
+# eda-repo-1
+EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산업 영향 분석 
 
-## 팀 소개
+## 💡 프로젝트 소개
+* 본 프로젝트는 세계적으로 히어로 영화 돌풍을 일으켰던 마블영화의 흥행과 한국 영화 산업간의 상관관계를 분석한다.
+<br>
+
+## 🤖 팀 소개
 
 |이름|업무|
 |---|:---|
 |**함동균**|- 데이터베이스 구성 <br>- 월별 국내영화 박스오피스 데이터 분석 및 시각화<br>- 마블영화와 국내 영화 상관관계 분석 및 시각화<br>-국내 상영관 증가 추이 분석 및 시각화<br>- Jira, Confluence 관리 및 일정 조율|
-|유재현|- 마블영화 데이터와 국내 영화 개봉일 데이터 분석 및 시각화<br>- 국내 상영관 추이 분석 및 시각화|
-|문세희|- 마블영화 데이터와 국내 영화 개봉일 데이터 분석 및 시각화<br>- 월별 국내영화 박스오피스 데이터 분석 및 시각화|
-|조지은|- 국내 박스오피스 데이터 수집 및 분석|
+|조지은|- 마블영화 데이터와 국내 영화 개봉일 데이터 분석 및 시각화<br>- 국내 상영관 추이 분석 및 시각화|
+|유재현|- 마블영화 데이터와 국내 영화 개봉일 데이터 분석 및 시각화<br>- 월별 국내영화 박스오피스 데이터 분석 및 시각화|
+|문세희|- 국내 박스오피스 데이터 수집 및 분석|
+<br>
 
-## 활용 기술
+## 🖥️ 활용 기술
 |구분|상세|
 |---|---|
 |개발환경|<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>|
@@ -25,6 +31,8 @@ EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산�
 |시각화|<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>|
 |DB|<img src="https://img.shields.io/badge/AMAZON RDS-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>|
 |협업 툴|<img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>|
+<br>
+
 
 ## 데이터 분석 - 국내 마블의 영향
 ![아이언맨그래프](https://github.com/user-attachments/assets/95df4c6b-a191-4bd2-8a8d-65d492fb6d2a)
