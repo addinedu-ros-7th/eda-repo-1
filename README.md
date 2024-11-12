@@ -110,4 +110,4 @@ EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산�
 *  마블 영화가 국내 영화산업에 주는 영향이 미미했다.
 *  대한민국 영화산업은 마블 영화의 상영기간을 불문하고 꾸준히 성장했다.
 *  대한민국 영화산업은 마블 영화의 영향을 받지 않고 스스로 성장했다.
-![movie_openrate ](https://github.com/user-attachments/assets/a9048a44-94e5-4a67-8b45-7a286440c8ed)
+![movie_openrate ](https://github.com/user-attachments/assets/77ddb5ec-7809-44cd-8513-0d5bb01256a7)
