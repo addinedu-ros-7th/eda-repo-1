@@ -18,13 +18,13 @@ EDA 프로젝트 1조 저장소. 마블 스튜디오의 대한민국 영화 산�
 ## 활용 기술
 |구분|상세|
 |---|---|
-|개발환경|<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>|
-|IDE|<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>|
-|언어|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>|
-|웹 크롤링|<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/BeatifulSoup-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/>|
-|시각화||
-|DB|<img src="https://img.shields.io/badge/AMAZON RDS-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>|
-|협업 툴|<img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>|
+|개발환경|<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>|
+|IDE|<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>|
+|언어|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>|
+|웹 크롤링|<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/BeatifulSoup-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>|
+|시각화|<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>|
+|DB|<img src="https://img.shields.io/badge/AMAZON RDS-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>|
+|협업 툴|<img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>|
 
 ## 데이터 분석 - 국내 마블의 영향
 ![아이언맨그래프](https://github.com/user-attachments/assets/95df4c6b-a191-4bd2-8a8d-65d492fb6d2a)
